@@ -1,0 +1,44 @@
+p {
+
+	font-size:initial;
+	font-weight: bold;
+}
+.estudios{
+	margin-left: 50px;
+}
+.principal {
+
+	border-width: medium;
+	border :5px solid black;
+	margin-left: 50px;
+
+}
+
+h1,h2  {
+    color: black;
+    size: 100%;
+    text-align: center ; 
+
+}
+
+.nombre {
+    text-align: center;
+
+}
+img {
+   
+display:block;
+margin:auto;
+    width: 30px;
+    height: 30px;
+}
+
+#vinculos {
+margin-left: 50px;
+
+	
+}
+
+.column {
+    text-align: center;
+	}
